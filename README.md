@@ -1,5 +1,5 @@
-![Wolda's github stats](https://github-readme-stats.vercel.app/api?username=wolda-wolda&count_private=true&show_icons=true&theme=onedark)
-- 🔭 I’m currently working on Digitle Register App obo bessa notürlich
+![Wolda's github stats](https://github-readme-stats.vercel.app/api?username=wolda-wolda&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+- 🔭 I’m currently working on Digitles Register App obo bessa notürlich
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolda-wolda&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
