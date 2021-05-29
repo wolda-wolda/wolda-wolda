@@ -1,2 +1,1 @@
-![](https://github.com/wolda-wolda/stats/blob/master/generated/overview.svg)
-![](https://github.com/wolda-wolda/stats/blob/master/generated/languages.svg)
+![Metrics](https://github.com/wolda-wolda/wolda-wolda/blob/main/github-metrics.svg)
