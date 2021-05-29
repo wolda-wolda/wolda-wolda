@@ -28,3 +28,4 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_skyline: yes
