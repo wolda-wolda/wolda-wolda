@@ -15,7 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: Coordinate-Cat
+          user: wolda-wolda
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
