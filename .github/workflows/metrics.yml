@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS }}
+          token: ${{ secrets.readme }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -21,7 +21,7 @@ jobs:
           user: Coordinate-Cat
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tokyo
+          config_timezone: Europe/Rome
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
