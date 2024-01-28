@@ -49,5 +49,6 @@ jobs:
           plugin_lines_sections: base
           plugin_stock: yes
           plugin_stock_duration: 1y
+          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_interval: 60m
           plugin_stock_symbol: NVDA
